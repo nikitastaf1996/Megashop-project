@@ -129,3 +129,18 @@ docker compose run --rm scheduler php artisan app:generate-banners
 > **Результат:** Проект, несмотря на первоначальные сложности, был успешно доведен до рабочего состояния, демонстрируя не только технические навыки, но и умение принимать решения о скоупе, рефакторить и фокусироваться на конечном результате.
 
 ---
+
+### Скриншоты
+
+![Alt text](screenshots/1.png)
+![Alt text](screenshots/2.png)
+![Alt text](screenshots/3.png)
+![Alt text](screenshots/4.png)
+![Alt text](screenshots/5.png)
+![Alt text](screenshots/6.png)
+![Alt text](screenshots/7.png)
+![Alt text](screenshots/8.png)
+![Alt text](screenshots/9.png)
+![Alt text](screenshots/10.png)
+![Alt text](screenshots/11.png)
+![Alt text](screenshots/12.png)
